@@ -1,0 +1,7 @@
+{
+  "name": "vue-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/naritashin/vue-express.git",
+  "license": "MIT"
+}
